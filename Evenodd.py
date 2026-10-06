@@ -7,5 +7,5 @@ def check_even_odd(number):
 
 
 if __name__ == "__main__":
-    number=int(sys.argv[0])
+    number=int(sys.argv[1])
     print("Even and odd ",check_even_odd(20))
